@@ -10,23 +10,15 @@ redirect_from:
 
 
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    👋🏼 **Hello there, I’m Lohit!**
+![Brain GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGkwYjhrOGF1anFocnA0dmV5eGZzZGhhNGx5NHlycnRuaWJhbTRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfEJneSL2MkLe/giphy.gif){: .align-right width="400px"}
 
-    👨🏻‍💻 I'm currently working as a Researcher at the TU Delft.
+👨🏻‍💻 I'm currently working as a Researcher at the TU Delft.
 
-    🔬 My research interests lie in neuromorphic computing, edge AI, and biologically inspired algorithms for energy-efficient and sustainable intelligent systems.
+🔬 My research interests lie in neuromorphic computing, edge AI, and biologically inspired algorithms for energy-efficient and sustainable intelligent systems.
 
-    📚 My Master's Thesis was on the topic - *"Neuromorphic Compression and Distributed Computing for On-Implant Neural Signal Processing in Brain-Computer Interfaces"*, Aug 2024.
+📚 My Master's Thesis was on the topic - "Neuromorphic Compression and Distributed Computing for On-Implant Neural Signal Processing in Brain-Computer Interfaces", Aug 2024.
 
-    🏆 Awarded Second Prize in the *“Best MSc Graduate Awards”* at Delft Bioengineering Institute, Dec 2024.
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGkwYjhrOGF1anFocnA0dmV5eGZzZGhhNGx5NHlycnRuaWJhbTRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfEJneSL2MkLe/giphy.gif" width="400px">
-  </div>
-</div>
-
+🏆 Awarded Second Prize in the “Best MSc Graduate Awards” at Delft Bioengineering Institute, Dec 2024.
 
 <!-- # Selected Experience
 
