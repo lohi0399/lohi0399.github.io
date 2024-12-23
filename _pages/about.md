@@ -20,7 +20,7 @@ redirect_from:
 
 🏆 Awarded Second Prize in the “Best MSc Graduate Awards” at Delft Bioengineering Institute, Dec 2024.
 
-# Selected Experience
+<!-- # Selected Experience
 
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
@@ -40,4 +40,4 @@ Additionally, I have professional experience working as an **Applied Machine Lea
 There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
 
 ## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content. -->
