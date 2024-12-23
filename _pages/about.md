@@ -46,7 +46,7 @@ seed dispersal with APM 2.8 and Raspberry Pi, 2021.
 
 # 👨🏻‍🔬 Professional Experience
 
-Currently I am working as a ** Researcher** at the Quantum and Computer Engineering (QCE) Department TU Delft  working on **Self-Healing RRAM-based Neuromorphic Computing for Edge AI**.
+Currently I am working as a **Researcher** at the Quantum and Computer Engineering (QCE) Department TU Delft  working on **Self-Healing RRAM-based Neuromorphic Computing for Edge AI**.
 Additionally, I have professional experience working as an **Graduate Student Researcher** at the IMEC in Eindhoven worked I worked on my thesis. 
 
 <!-- ## 📚 Teaching and Community Contributions
