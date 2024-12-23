@@ -11,15 +11,15 @@ redirect_from:
 
 
 ![Brain GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGkwYjhrOGF1anFocnA0dmV5eGZzZGhhNGx5NHlycnRuaWJhbTRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfEJneSL2MkLe/giphy.gif){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I'm currently working as a Researcher at the TU Delft.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests lie in neuromorphic computing, edge AI, and biologically inspired algorithms for energy-efficient and sustainable intelligent systems.
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 My Master's Thesis was on the topic - "Neuromorphic Compression and Distributed Computing for On-Implant Neural Signal Processing in Brain-Computer Interfaces", Aug 2024.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+🏆 Awarded Second Prize in the “Best MSc Graduate Awards” at Delft Bioengineering Institute, Dec 2024.
 
-# Selected Experience
+<!-- # Selected Experience
 
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
@@ -39,4 +39,4 @@ Additionally, I have professional experience working as an **Applied Machine Lea
 There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
 
 ## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content. -->
